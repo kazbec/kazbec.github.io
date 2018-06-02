@@ -1,6 +1,9 @@
 * {
 	box-sizing: border-box;
 }
+body {
+	background-image: url(images/patt.png);
+}
 .container {
 	width: 1170px;
 	margin: 0 auto;
