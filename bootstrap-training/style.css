@@ -1,0 +1,7 @@
+[class*=col-] {
+	background: #ccc;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	text-align: center;
+	color: white;
+}
